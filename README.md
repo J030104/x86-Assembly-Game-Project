@@ -12,6 +12,6 @@ Enter the Masm615 directory and type the following commands
 ```
 
 ### Execute the .exe file in the DOSbox emulator
---> The game difficulty can be customized by adjusting the cycles.
+&rarr The game difficulty can be customized by adjusting the cycles.
 
 ###### 111 1st Semester - Introduction to Microcomputer: x86 Assembly Practicum
